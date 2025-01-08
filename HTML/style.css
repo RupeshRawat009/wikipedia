@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
@@ -7,7 +7,7 @@ body {
     color: #333;
 }
 
-/* Navbar */
+
 nav {
     background-color: #333;
     color: white;
@@ -38,7 +38,6 @@ nav ul li a:hover {
     border-radius: 5px;
 }
 
-/* Section Styles */
 section {
     padding: 20px;
     margin: 20px 10px;
@@ -51,7 +50,7 @@ h1, h2 {
     color: #444;
 }
 
-/* Contact Form */
+
 .contact-form input,
 .contact-form textarea {
     display: block;
@@ -75,7 +74,7 @@ h1, h2 {
     background-color: #0056b3;
 }
 
-/* Skills Table */
+
 .skills-table {
     width: 100%;
     border-collapse: collapse;
@@ -94,7 +93,7 @@ h1, h2 {
     color: white;
 }
 
-/* Media */
+
 .bio img {
     max-width: 150px;
     border-radius: 50%;
@@ -125,7 +124,7 @@ h1, h2 {
     margin: 20px 0;
 }
 
-/* Social Media */
+
 #social ul {
     list-style: none;
     padding: 0;
@@ -143,14 +142,12 @@ h1, h2 {
     text-decoration: underline;
 }
 
-/* Hobbies */
 .hobbies ul {
     list-style: disc;
     margin: 10px 20px;
     padding-left: 20px;
 }
 
-/* Resume Button */
 .resume-button {
     text-align: center;
     margin-top: 20px;
@@ -169,4 +166,3 @@ h1, h2 {
 .resume-button a:hover {
     background-color: #0056b3;
 }
-.
